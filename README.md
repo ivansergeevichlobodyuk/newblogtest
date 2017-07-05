@@ -1,0 +1,2 @@
+# newblogtest
+ember test
